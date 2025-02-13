@@ -2,7 +2,12 @@
 
 A sophisticated graphical user interface application for generating and analyzing Time-Temperature-Transformation (TTT) and Continuous-Cooling-Transformation (CCT) diagrams for steel compositions. This tool helps metallurgists and materials engineers visualize and understand phase transformations in steel under various conditions.
 
-![Application Screenshot](docs/images/app_screenshot.png)
+## Application Screenshots
+
+![Main Interface](docs/images/main_interface.png)
+*Main application interface with input parameters*
+
+[View more screenshots and detailed explanations](docs/SCREENSHOTS.md)
 
 ## Table of Contents
 - [Features](#features)
